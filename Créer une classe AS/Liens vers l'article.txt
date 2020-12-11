@@ -1,0 +1,3 @@
+http://www.masamune.fr/blog/2010/11/actionscript-as3-comment-creer-et-utiliser-une-classe/
+
+Merci d'avoir suivi mon tutoriel, en cas de soucis n'hésitez pas  me laisser un commentaire ;)

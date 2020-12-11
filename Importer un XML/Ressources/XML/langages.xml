@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<langages>
+	<langage nom="français">
+		<titre>Mon site en français !</titre>
+		<soustitre>Mon sous titre en français</soustitre>
+		<contenu>Et voici donc mon premier type de contenu en français.
+Bon bah c'est pas le tout il faut meubler un peu pour faire semblant qu'il y à  du contenu ^^".
+		</contenu>
+	</langage>
+	<langage nom="anglais">
+		<titre>My site in English !</titre>
+		<soustitre>My subtitle in english</soustitre>
+		<contenu>And so this is my first type of content in english.
+Oh my god it's a little more difficult to add some crappy content in english x').
+		</contenu>
+	</langage>
+</langages>

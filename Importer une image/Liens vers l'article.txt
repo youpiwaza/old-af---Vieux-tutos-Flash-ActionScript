@@ -1,0 +1,3 @@
+http://www.masamune.fr/blog/2010/11/actionscript-as3-creer-une-classe-pour-importer-une-image/
+
+Merci d'avoir suivi mon tutoriel, en cas de soucis n'hésitez pas  me laisser un commentaire ;)

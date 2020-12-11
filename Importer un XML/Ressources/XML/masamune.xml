@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<personnes>
+	<personne>
+		<caracteritiques nom="Maxime">
+			<sexe>Masculin</sexe>
+		</caracteritiques>
+	</personne>
+	<personne>
+		<caracteritiques nom="Margot">
+			<sexe>Féminin</sexe>
+		</caracteritiques>
+	</personne>
+</personnes>
